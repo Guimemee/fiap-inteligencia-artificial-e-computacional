@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Inteligência Artificial e Computacional
+Turma 3ECR • Ano 2024
+Checkpoint 04: Redes Neurais Convolucionais (CNN) para Classificação de Imagens
+
+ENUNCIADO ORIGINAL:
+Implementar arquitetura CNN com camadas Conv2D, MaxPooling2D e BatchNormalization para classificar tipos de fragmentos plásticos marinhos coletados por câmeras subaquáticas.

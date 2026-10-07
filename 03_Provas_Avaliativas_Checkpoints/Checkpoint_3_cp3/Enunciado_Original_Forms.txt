@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Inteligência Artificial e Computacional
+Turma 3ECR • Ano 2024
+Checkpoint 03: Redes Neurais Artificiais (MLP) com Keras e Otimizador Adam
+
+ENUNCIADO ORIGINAL:
+Construir e treinar um Perceptron Multicamadas (MLP) no Keras com camadas densas, regularização Dropout e função de ativação ReLU para prever a concentração de microplásticos.

@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Inteligência Artificial e Computacional
+Turma 3ECR • Ano 2024
+Checkpoint 05: Detecção de Objetos em Tempo Real com Modelo YOLOv8
+
+ENUNCIADO ORIGINAL:
+Treinar modelo YOLOv8 Nano para localização espacial e delimitação de caixas delimitadoras (Bounding Boxes) de resíduos plásticos flutuantes a partir de fluxo de vídeo em tempo real.

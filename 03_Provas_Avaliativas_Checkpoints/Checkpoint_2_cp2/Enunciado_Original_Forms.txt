@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Inteligência Artificial e Computacional
+Turma 3ECR • Ano 2024
+Checkpoint 02: Redução de Dimensionalidade (PCA) e Agrupamento Não-Supervisionado (K-Means)
+
+ENUNCIADO ORIGINAL:
+Reduzir 16 dimensões de parâmetros oceânicos para os 2 primeiros Componentes Principais (PCA) e aplicar o algoritmo K-Means determinando o número ótimo de clusters pelo Método do Cotovelo.

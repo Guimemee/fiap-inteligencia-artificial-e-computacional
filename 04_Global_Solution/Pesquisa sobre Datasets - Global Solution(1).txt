@@ -1,0 +1,31 @@
+Marine Debris Monitoring and Assessment Project (MDMAP)
+Descrição: Iniciativa da NOAA (National Oceanic and Atmospheric Administration) que coleta dados sobre detritos marinhos em praias dos EUA e territórios associados.
+Busca: NOAA Marine Debris Program 
+
+Ocean Conservancy's International Coastal Cleanup
+Descrição: Anualmente, a Ocean Conservancy organiza a limpeza de praias em todo o mundo, documentando os tipos e quantidades de detritos coletados.
+Busca: International Coastal Cleanup Data
+
+Global Microplastic Initiative by Adventure Scientists
+Descrição: Projeto que envolve a coleta de amostras de água por voluntários em diversas partes do mundo para analisar a presença de microplásticos.
+Busca: Adventure Scientists - Global Microplastics Initiative
+
+European Marine Observation and Data Network (EMODnet)
+Descrição: Plataforma europeia que fornece acesso a uma variedade de dados marinhos, incluindo informações sobre lixo marinho.
+Busca: EMODnet Human Activities
+
+Our World in Data - Plastic Pollution
+Descrição: Compilação de dados globais sobre produção, consumo e descarte de plásticos, incluindo informações sobre poluição marinha.
+Busca: Our World in Data - Plastic Pollution
+
+UNEP (United Nations Environment Programme)
+Descrição: Publica relatórios e dados sobre poluição plástica e iniciativas para mitigação em diversos países.
+Busca: UNEP - Plastic Waste
+
+Litterbase
+Descrição: Banco de dados que agrega dados científicos sobre a presença de lixo marinho em diferentes partes do mundo.
+Busca: Litterbase
+
+Global Plastics Project - WWF (World Wildlife Fund)
+Descrição: Iniciativa da WWF para monitorar e reduzir a poluição plástica em diversas regiões do mundo.
+Busca: WWF - Plastic Pollution

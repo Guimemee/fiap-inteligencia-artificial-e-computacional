@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Inteligência Artificial e Computacional
+Turma 3ECR • Ano 2024
+Checkpoint 01: Pré-processamento, Normalização e Engenharia de Features
+
+ENUNCIADO ORIGINAL:
+Implementar pipeline de saneamento, codificação One-Hot, imputação por KNN e normalização StandardScaler no dataset de telemetria oceânica para preparação de modelos de ML.

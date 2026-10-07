@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Inteligência Artificial e Computacional
+Turma 3ECR • Ano 2024
+Checkpoint 06: Integração Global Solution: IA Preditiva para Despoluição Marinha Sanofi
+
+ENUNCIADO ORIGINAL:
+Consolidar a solução completa de Inteligência Artificial integrando modelos de previsão de rotas de dispersão de poluentes oceânicos com sensoriamento IoT embarcado.
